@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "l1kXIiiZY7A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jazzy\\OneDrive\\Desktop\\Programming\\Lab 10 Polymorphic Drawing Factory\\lab-10-polymorphic-drawing-factory-Jazzypanda1234\\Lab10.Tests\\Lab10.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jazzy\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\jazzy\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

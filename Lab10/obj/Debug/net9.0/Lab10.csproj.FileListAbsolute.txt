@@ -1,0 +1,12 @@
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\bin\Debug\net9.0\Lab10.deps.json
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\bin\Debug\net9.0\Lab10.dll
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\bin\Debug\net9.0\Lab10.pdb
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfoInputs.cache
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.AssemblyInfo.cs
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.sourcelink.json
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.dll
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\refint\Lab10.dll
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\Lab10.pdb
+C:\Users\jazzy\OneDrive\Desktop\Programming\Lab 10 Polymorphic Drawing Factory\lab-10-polymorphic-drawing-factory-Jazzypanda1234\Lab10\obj\Debug\net9.0\ref\Lab10.dll

@@ -1,8 +1,8 @@
 using Lab09;
 
-Console.WriteLine("This is a program to draw and allow you to either draw or modify an existing drawing.");
+Console.WriteLine("This is a program to draw and allow you to either draw or modify an existing drawing. (In Yellow!)");
 
-List<IGraphic2DFactory> availableShapeTypes = new List<IGraphic2DFactory>();
+List<IGraphic2DFactory> availableShapeTypes = new List<IGraphic2DFactory>{new RectangleFactory(), new CircleFactory()};
 List<IGraphic2D> builtShapes = new List<IGraphic2D>();
 
 while (true)
@@ -18,9 +18,10 @@ while (true)
 
         case ConsoleKey.D2:
             int i = 1;
+            Console.WriteLine("Available shape types: ");
             foreach (var item in availableShapeTypes)
             {
-                Console.Write(i + ": " + item.Name);
+                Console.WriteLine(i + ": " + item.Name);
                 i++;
             }
 
@@ -39,13 +40,12 @@ while (true)
             break;
 
         case ConsoleKey.D3:
-            i = 1;
-            foreach (var item in availableShapeTypes)
+            Console.WriteLine("\nEnter the number of the graphic you're removing.");
+            for (i = 0; i < builtShapes.Count; i++)
             {
-                Console.Write(i + ": " + item.Name);
-                i++;
+                Console.Write($"{i+1}: {builtShapes[i]}");
             }
-            Console.WriteLine("Enter the number of the graphic you're removing.");
+            Console.WriteLine();
             if (int.TryParse(Console.ReadLine(), out int graphicNum) && graphicNum > 0 && graphicNum <= builtShapes.Count())
             {
                 builtShapes.RemoveAt(graphicNum - 1);
